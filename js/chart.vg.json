@@ -3,7 +3,7 @@
   "data": {
     "url": "data/deaths_by_country_cause_and_year.csv"
   },
-  "title": "Per capita deaths for top five causes of death over time",
+  "title": "Change in per capita deaths from top five* causes",
   "width": 800,
   "height": 400,
   "encoding": {
